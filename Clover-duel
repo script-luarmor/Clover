@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/xd-myscript/3be0a89069a10f7287cda0c94a150fc2/raw/f38efbd1971a3a7516d529f9d1274ca58a8b4b29/Clover-duel.lua"))()
